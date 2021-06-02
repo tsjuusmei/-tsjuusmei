@@ -38,10 +38,12 @@
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" />](https://code.visualstudio.com/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/xd/xd-line.svg" />](https://www.adobe.com/nl/products/xd.html)
+
+<br />
 <br />
 
 <img align="left" alt="Tsjuusmei's Github Stats" src="https://github-readme-stats-tsjuusmei.vercel.app/api?username=tsjuusmei&show_icons=true&hide_border=true" />
 
-<img alight="left" alt="Tsjuusmei's Top Languages" src="https://github-readme-stats-tsjuusmei.vercel.app/api/top-langs/?username=tsjuusmei" />
+<img align="left" alt="Tsjuusmei's Top Languages" src="https://github-readme-stats-tsjuusmei.vercel.app/api/top-langs/?username=tsjuusmei" />
 
 
