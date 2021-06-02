@@ -6,7 +6,6 @@
 - Next schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
 - I play the guitar
 
-<br />
 
 ### Connect with me here:
 
@@ -14,7 +13,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/guusmay/)
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />](https://github.com/tsjuusmei)
  
-
+<br />
 <br />
 
 ### Languages and Tools:
@@ -37,6 +36,7 @@
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/xd/xd-line.svg" />](https://www.adobe.com/nl/products/xd.html)
 
+<br />
 <br />
 <br />
 
