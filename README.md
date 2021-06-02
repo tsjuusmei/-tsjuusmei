@@ -3,8 +3,8 @@
 ### I'm a student, developer and music lover!
 - I'm currently finishing my minor [Web Development](https://everythingweb.org/)
 - I'm already working as a Web Developer
-- Next schoolyear, I will be finishing my [study](https://www.cmd-amsterdam.nl/)
-- I play the guitar!
+- Next schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
+- I play the guitar
 
 <br />
 
@@ -24,7 +24,7 @@
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" />](https://www.figma.com/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original-wordmark.svg" />](https://git-scm.com/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />](https://github.com/)
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original-wordmark.svg" />]
+<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original-wordmark.svg" />
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/heroku/heroku-original-wordmark.svg" />](http://heroku.com/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/illustrator/illustrator-line.svg" />](https://www.adobe.com/nl/products/illustrator.html)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -38,7 +38,6 @@
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" />](https://code.visualstudio.com/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/xd/xd-line.svg" />](https://www.adobe.com/nl/products/xd.html)
-
 <br />
 <br />
 
