@@ -30,11 +30,11 @@
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.mongodb.com/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/en/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
+[<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/illustrator/illustrator-line.svg" />](https://www.adobe.com/nl/products/illustrator.html)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-line.svg" />](https://www.adobe.com/nl/products/photoshop.html)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/premierepro/premierepro-original.svg" />](https://www.adobe.com/nl/products/premiere.html)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/xd/xd-line.svg" />](https://www.adobe.com/nl/products/xd.html)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" />](https://www.figma.com/)
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/illustrator/illustrator-line.svg" />](https://www.adobe.com/nl/products/illustrator.html)
 
 <br />
 <br />
