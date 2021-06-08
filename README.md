@@ -11,7 +11,6 @@
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/guus-maij-685852199/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/guusmay/)
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />](https://github.com/tsjuusmei)
  
 <br />
 <br />
