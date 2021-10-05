@@ -1,9 +1,9 @@
 ## Hi there, my name is Guus :wave:
 
 ### I'm a student, developer and music lover!
-- I'm currently finishing my minor [Web Development](https://everythingweb.org/)
+- I'm currently an intern Frontend Developer at [Yummygum](https://www.yummygum.com)
 - I'm already working as a Web Developer
-- Next schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
+- This schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
 - I play the guitar
 
 
