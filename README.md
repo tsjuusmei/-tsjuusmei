@@ -2,7 +2,6 @@
 
 ### I'm a student, developer and music lover!
 - I'm currently an intern Frontend Developer at [Yummygum](https://www.yummygum.com)
-- I'm already working as a Web Developer
 - This schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
 - I play the guitar
 
