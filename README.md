@@ -4,7 +4,6 @@
 - I'm currently an intern Frontend Developer at [Yummygum](https://www.yummygum.com)
 - This schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
 - I play the guitar
-- My actual code activity is way more than visible, because I mostly work in private repositories
 
 
 ### Connect with me here:
