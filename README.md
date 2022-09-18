@@ -1,9 +1,9 @@
 ## Hi there, my name is Guus :wave:
 
-### I'm a student, developer and music lover!
-- I'm currently an intern Frontend Developer at [Yummygum](https://www.yummygum.com)
-- This schoolyear, I will be finishing the study [Communication & Multimedia Design](https://www.cmd-amsterdam.nl/)
+### I'm a Frontend developer and music lover
+- I'm currently a Frontend Developer at [Yummygum](https://www.yummygum.com)
 - I play the guitar
+- Due to my work on private repo's, my activity is way more than it seems ;)
 
 
 ### Connect with me here:
