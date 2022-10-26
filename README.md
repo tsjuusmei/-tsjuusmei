@@ -3,7 +3,7 @@
 ### I'm a Frontend developer and music lover
 - I'm currently a Frontend Developer at [Yummygum](https://www.yummygum.com)
 - I play the guitar
-- Due to my work on private repo's, my activity is way more than it seems ;)
+- I love going to concerts & music festivals
 
 
 ### Connect with me here:
