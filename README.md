@@ -1,10 +1,6 @@
 ## Hi there, my name is Guus :wave:
 
-### I'm a Frontend developer and music lover
-- I'm currently a Frontend Developer at [Yummygum](https://www.yummygum.com)
-- I play the guitar
-- I love going to concerts & music festivals
-
+Currently a Frontend Developer @ FindNFund
 
 ### Connect with me here:
 
