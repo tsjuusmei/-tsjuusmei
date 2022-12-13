@@ -1,6 +1,6 @@
 ## Hi there, my name is Guus :wave:
 
-Currently a Frontend Developer @ FindNFund
+Frontend Developer @ FindNFund
 
 ### Connect with me here:
 
