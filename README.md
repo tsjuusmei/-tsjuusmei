@@ -12,7 +12,7 @@ Frontend Developer @ FindNFund
 
 ### Languages and Tools:
 
-My most used language is React (Next.js) with TypeScript :)
+My most used language is React (Next.js) with TypeScript
 
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original-wordmark.svg" />
 
